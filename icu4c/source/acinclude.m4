@@ -81,6 +81,7 @@ powerpc*-apple-darwin*)	icu_cv_host_frag=mh-darwin-ppc ;;
 *-apple-darwin*)	icu_cv_host_frag=mh-darwin ;;
 *-*-beos)       icu_cv_host_frag=mh-beos ;; 
 *-*-haiku)      icu_cv_host_frag=mh-haiku ;; 
+*-*-kos)      icu_cv_host_frag=mh-kos ;; 
 *-*-irix*)	icu_cv_host_frag=mh-irix ;;
 *-dec-osf*) icu_cv_host_frag=mh-alpha-osf ;;
 *-*-nto*)	icu_cv_host_frag=mh-qnx ;;

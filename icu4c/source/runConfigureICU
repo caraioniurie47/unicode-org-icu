@@ -46,6 +46,7 @@ The following names can be supplied as the argument for platform:
     FreeBSD             Use the clang/clang++ or GNU gcc/g++ compilers on FreeBSD
     HP-UX/ACC           Use the HP ANSI C/Advanced C++ compilers on HP-UX 11
     IBMi                Use the iCC compilers on IBM i, i5/OS, OS/400
+    KOS                 Use the GCC cross-compiler for KasperskyOS
     Linux               Use the clang/clang++ or GNU gcc/g++ compilers on Linux
     Linux/gcc           Use the GNU gcc/g++ compilers on Linux
     Linux/ECC           Use the Intel ECC compiler on Linux
